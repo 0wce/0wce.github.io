@@ -1,4 +1,4 @@
- /* Style the video: 100% width and height to cover the entire window */
+ /* 100% w & h for full coverage */
  #myVideo {
     position: fixed;
     right: 0;

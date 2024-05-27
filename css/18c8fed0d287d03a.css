@@ -13,7 +13,6 @@
   margin-top: -17px;
   justify-content: center;
   display: flex;
-  max-width: 400px;
 }
 @media (max-width: 440px) {
   #u_ee11cbb19052e40b07aac0ca060c23ee_audio-control__POgpq {
@@ -57,9 +56,9 @@
   margin-bottom: -10px;
   width: 100%;
 }
-@media (max-width: 398px) {
+@media (max-width: 698px) {
   .u_ee11cbb19052e40b07aac0ca060c23ee_container__MY5Hi {
-    max-width: 400px !important;
+    max-width: 34rem !important;
   }
 }
 @media (max-width: 310px) {
@@ -442,7 +441,6 @@ main.u_ee11cbb19052e40b07aac0ca060c23ee_main-cont__zmSkV
 }
 .u_ee11cbb19052e40b07aac0ca060c23ee_container-user__XhTIl {
   text-align: center;
-  max-width: 400px;
 }
 .u_ee11cbb19052e40b07aac0ca060c23ee_centered__S0B9H {
   display: inline-block;

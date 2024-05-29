@@ -15,10 +15,7 @@
   display: flex;
 }
 @media (max-width: 440px) {
-  #u_ee11cbb19052e40b07aac0ca060c23ee_audio-control__POgpq {
-    top: 15px;
-    right: 17px;
-  }
+  
 }
 .u_ee11cbb19052e40b07aac0ca060c23ee_div-wrapper-scs-c__neVff {
   display: flex;
@@ -41,9 +38,8 @@
   justify-content: center;
   align-items: center;
   transition-property: all;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1), linear;
   transition-duration: 0.3s;
-  transition-timing-function: linear;
 }
 .u_ee11cbb19052e40b07aac0ca060c23ee_icons-soc__8B_rM {
   display: flex;
@@ -122,18 +118,8 @@
     max-width: 100% !important;
   }
 }
-.u_ee11cbb19052e40b07aac0ca060c23ee_mute_btn__zR77_ {
-  font-size: 39.5px;
-  border: none;
-  border-radius: 8px;
-  left: 6.5px;
-  top: 6px;
-  position: absolute;
-  padding: 3px 5px 1px 6.5px;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_mute_btn__zR77_ svg {
-  vertical-align: -4.5px;
-}
+
+
 .u_ee11cbb19052e40b07aac0ca060c23ee_fl__jEeLP {
   text-align: center;
   position: fixed;
@@ -182,112 +168,18 @@ main.u_ee11cbb19052e40b07aac0ca060c23ee_main-cont__zmSkV
   padding-right: 15px;
   margin-bottom: 5.5px;
 }
-.u_ee11cbb19052e40b07aac0ca060c23ee_discord__CzQ5W {
-  font-size: 40px;
-  color: #5865f2;
-  filter: drop-shadow(2px 2px 7px #5865f2);
-  transition: all 0.2s ease-in-out;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_tiktok__O5Vgm {
-  color: #f7f7f7;
-  filter: drop-shadow(2px 2px 7px #f7f7f7);
-  transition: all 0.2s ease-in-out;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_github__rIKio {
-  color: #696969;
-  filter: drop-shadow(2px 2px 7px #696969);
-  transition: all 0.2s ease-in-out;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_spotify__QzjlY {
-  color: #1db954;
-  filter: drop-shadow(2px 2px 7px #1db954);
-  transition: all 0.2s ease-in-out;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_instagram__kYqRX {
-  color: #d62976;
-  filter: drop-shadow(2px 2px 7px #d62976);
-  transition: all 0.2s ease-in-out;
-}
 .u_ee11cbb19052e40b07aac0ca060c23ee_custom__c0WMo {
   color: #a3a3a3;
   filter: drop-shadow(2px 2px 7px #a3a3a3);
   transition: all 0.2s ease-in-out;
 }
-.u_ee11cbb19052e40b07aac0ca060c23ee_paypal__X_7mJ {
-  vertical-align: -3px;
-  font-size: 34.5px;
-  color: #002e83;
-  filter: drop-shadow(2px 2px 7px #002e83);
-  transition: all 0.2s ease-in-out;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_telegram__hkiGo {
-  color: #2e9cd6;
-  filter: drop-shadow(2px 2px 7px #2e9cd6);
-  transition: all 0.2s ease-in-out;
-  margin-left: -4px;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_youtube__pBmNK {
-  color: #ff0000e1;
-  filter: drop-shadow(2px 2px 7px #ff0000e1);
-  transition: all 0.2s ease-in-out;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_steam__iHdM_ {
-  color: #ebebeb;
-  filter: drop-shadow(2px 2px 7px #ebebeb);
-  transition: all 0.2s ease-in-out;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_roblox__ba0nR {
-  color: #97a6b4;
-  filter: drop-shadow(2px 2px 7px #97a6b4);
-  transition: all 0.2s ease-in-out;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_cashapp__O3aWR {
-  color: #00c846;
-  filter: drop-shadow(2px 2px 7px #00c846);
-  transition: all 0.2s ease-in-out;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_twitch__UzoAF {
-  color: #9448ff;
-  filter: drop-shadow(2px 2px 7px #9448ff);
-  transition: all 0.2s ease-in-out;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_reddit__4sIlc {
-  color: #fe4000;
-  filter: drop-shadow(2px 2px 7px #fe4000);
-  transition: all 0.2s ease-in-out;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_kick__vV4AT {
-  color: #52fa17;
-  filter: drop-shadow(2px 2px 7px #52fa17);
-  transition: all 0.2s ease-in-out;
-}
+
 .u_ee11cbb19052e40b07aac0ca060c23ee_x__WC8it {
   color: #292929;
   filter: drop-shadow(2px 2px 7px #292929);
   transition: all 0.2s ease-in-out;
 }
-.u_ee11cbb19052e40b07aac0ca060c23ee_soundcloud__gFgpM {
-  color: #ff4700;
-  filter: drop-shadow(2px 2px 7px #ff4700);
-  transition: all 0.2s ease-in-out;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_cashapp__O3aWR:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_custom__c0WMo:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_discord__CzQ5W:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_github__rIKio:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_instagram__kYqRX:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_kick__vV4AT:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_paypal__X_7mJ:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_reddit__4sIlc:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_roblox__ba0nR:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_soundcloud__gFgpM:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_spotify__QzjlY:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_steam__iHdM_:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_telegram__hkiGo:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_tiktok__O5Vgm:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_twitch__UzoAF:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_x__WC8it:hover,
-.u_ee11cbb19052e40b07aac0ca060c23ee_youtube__pBmNK:hover {
+.u_ee11cbb19052e40b07aac0ca060c23ee_x__WC8it:hover{
   transform: scale(1.1);
 }
 .u_ee11cbb19052e40b07aac0ca060c23ee_lanyard__1d3YI {
@@ -296,7 +188,6 @@ main.u_ee11cbb19052e40b07aac0ca060c23ee_main-cont__zmSkV
 #u_ee11cbb19052e40b07aac0ca060c23ee_audio-control__POgpq {
   font-size: 31px;
   display: inline-block;
-  transition: 0.55s ease;
   transition: 1.5s ease;
   color: #fff;
 }
@@ -475,38 +366,6 @@ main.u_ee11cbb19052e40b07aac0ca060c23ee_main-cont__zmSkV
 .u_ee11cbb19052e40b07aac0ca060c23ee_badge-container-below__sJklq div {
   margin-left: 2.5px;
   margin-right: 2.5px;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_verified__Nn4KO {
-  font-size: 22px;
-  color: #008ada;
-  filter: drop-shadow(0 0 2.5px #008ada);
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_server_booster__xjMEq {
-  font-size: 20.5px;
-  color: #be510d;
-  filter: drop-shadow(0 0 2.5px #be510d);
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_premium__f_LQ8 {
-  font-size: 21px;
-  color: #d30000;
-  filter: drop-shadow(0 0 2.5px #d30000);
-  vertical-align: -1px;
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_staff___uje8 {
-  font-size: 20.5px;
-  color: #6783ff;
-  filter: drop-shadow(0 0 2.5px #6783ff);
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_og__9C8k1 {
-  margin-left: 1px;
-  font-size: 20.9px;
-  color: gold;
-  filter: drop-shadow(0 0 2.5px #ffd700);
-}
-.u_ee11cbb19052e40b07aac0ca060c23ee_donor__RzK2z {
-  font-size: 21px;
-  color: #13a15a;
-  filter: drop-shadow(0 0 2.5px #13a15a);
 }
 .u_ee11cbb19052e40b07aac0ca060c23ee_view-A__Bh2UJ {
   outline: none !important;
@@ -751,18 +610,7 @@ main.u_ee11cbb19052e40b07aac0ca060c23ee_main-cont__zmSkV
   margin-left: 9px;
   border-radius: 12px;
 }
-.u_ee11cbb19052e40b07aac0ca060c23ee_emoji__J40L7 {
-  margin-top: -1px;
-  user-select: none;
-  -moz-user-select: none;
-  -webkit-user-select: none;
-  border-radius: 5px;
-  margin-right: 5px;
-  -o-object-fit: cover;
-  object-fit: cover;
-  height: 19px;
-  width: auto;
-}
+
 .u_ee11cbb19052e40b07aac0ca060c23ee_unknown_game__MEYTU {
   width: 64px;
   height: 64px;
@@ -880,22 +728,7 @@ main.u_ee11cbb19052e40b07aac0ca060c23ee_main-cont__zmSkV
   margin-bottom: 7.5px;
   font-size: 17.5px;
 }
-.s_789183b7e98646c11d5f0544c8f3c4c9_inp__3APAY {
-  font-weight: 700;
-  border: 1px solid #141414;
-  user-select: none;
-  -moz-user-select: none;
-  -webkit-user-select: none;
-  background-color: #0a0a0c;
-  border-radius: 7px;
-  outline: none;
-  color: #c5c5c5;
-  font-size: 15px;
-  transition: 0.3s;
-  font-family: Satoshi, sans-serif;
-  padding: 0.5rem;
-  width: 15rem;
-}
+
 .s_789183b7e98646c11d5f0544c8f3c4c9_submit__PMfmA {
   margin-top: 15px;
   font-weight: 550;
